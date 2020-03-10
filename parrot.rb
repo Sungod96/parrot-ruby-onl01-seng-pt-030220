@@ -4,7 +4,7 @@ end
 
 parrot
 
-def phrase(parrot = "Squawk!")
+def phrase(parrot)
   puts parrot
 end
 

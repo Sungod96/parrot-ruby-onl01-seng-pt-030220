@@ -1,5 +1,5 @@
 def parrot(string = "Squawk!")
-  puts "Squawk!"
+  puts #{sting}
 end
 
   
